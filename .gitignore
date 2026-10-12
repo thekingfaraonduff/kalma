@@ -1,0 +1,11 @@
+# Segreti: non vanno MAI su git
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Obsidian: impostazioni personali
+vault/.obsidian/workspace*.json
