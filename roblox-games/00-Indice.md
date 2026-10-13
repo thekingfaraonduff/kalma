@@ -15,6 +15,9 @@ Cinque giochi con la stessa base tecnica ([[01-Base-Condivisa]]). Ordine di svil
 | 4 | Colonia di Goblin | Colonia | Mostri / magia | bozza | [[Colonia-di-Goblin/Design]] |
 | 5 | Colonia Aliena | Colonia | Alieni | bozza | [[Colonia-Aliena/Design]] |
 
+## Altri documenti
+- [[02-Prompt-per-Claude-Terminale]]: prompt pronti da incollare in Claude Code, nell'ordine di lavoro.
+
 ## Regole di progetto
 - Una meccanica principale per gioco, una mappa, una v1 chiudibile in pochi giorni.
 - Tutto ciò che non serve alla v1 va nella sezione "Fuori dalla v1" di ogni design.
